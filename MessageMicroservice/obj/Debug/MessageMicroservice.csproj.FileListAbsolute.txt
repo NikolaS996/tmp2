@@ -1,0 +1,374 @@
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\MessageMicroservice.dll.config
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\MessageMicroservice.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\MessageMicroservice.pdb
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\csc.exe
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\csc.exe.config
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\csc.rsp
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\csi.exe
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\csi.exe.config
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\csi.rsp
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.AppContext.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Console.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.IO.Compression.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.IO.Pipes.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Security.Claims.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.ValueTuple.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Xml.XPath.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\vbc.exe
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\vbc.exe.config
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\vbc.rsp
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\VBCSCompiler.exe
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\Newtonsoft.Json.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\System.Net.Http.Formatting.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\System.Web.Http.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\System.Web.Http.WebHost.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\Newtonsoft.Json.xml
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\System.Net.Http.Formatting.xml
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\System.Web.Http.xml
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\System.Web.Http.WebHost.xml
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\obj\Debug\MessageMicroservice.csprojAssemblyReference.cache
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CopyComplete
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\obj\Debug\MessageMicroservice.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\obj\Debug\MessageMicroservice.pdb
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\MessageUtil.dll
+C:\Users\komp\source\repos\MessageMicroservice\MessageMicroservice\bin\MessageUtil.pdb
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.csprojAssemblyReference.cache
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CoreCompileInputs.cache
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.pdb
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.dll.config
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.pdb
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csc.exe
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csc.exe.config
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csc.rsp
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csi.exe
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csi.exe.config
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csi.rsp
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.Managed.Core.targets
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.AppContext.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Collections.Immutable.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Console.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.Compression.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.FileSystem.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.Pipes.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Reflection.Metadata.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.AccessControl.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Claims.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Principal.Windows.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.ValueTuple.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.XmlDocument.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.XPath.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\vbc.exe
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\vbc.exe.config
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\vbc.rsp
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\VBCSCompiler.exe
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\VBCSCompiler.exe.config
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\MessageUtil.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\Newtonsoft.Json.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\System.Net.Http.Formatting.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.WebHost.dll
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\MessageUtil.pdb
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\Newtonsoft.Json.xml
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\System.Net.Http.Formatting.xml
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.xml
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.WebHost.xml
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\test commita\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CopyComplete
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.dll.config
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.pdb
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csc.exe
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csc.exe.config
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csc.rsp
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csi.exe
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csi.exe.config
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csi.rsp
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.AppContext.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Collections.Immutable.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Console.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.Compression.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.FileSystem.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Reflection.Metadata.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.ValueTuple.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.XPath.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\vbc.exe
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\vbc.exe.config
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\vbc.rsp
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\VBCSCompiler.exe
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\VBCSCompiler.exe.config
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\MessageUtil.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\Newtonsoft.Json.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\System.Net.Http.Formatting.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.WebHost.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\MessageUtil.pdb
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\Newtonsoft.Json.xml
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\System.Net.Http.Formatting.xml
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.xml
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.WebHost.xml
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.csprojAssemblyReference.cache
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CoreCompileInputs.cache
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CopyComplete
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.pdb
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Globalization.Calendars.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Net.Http.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Net.Sockets.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Will you work\IT49g2015_G4_M6\MessageMicroservice\bin\Newtonsoft.Json.pdb
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.dll.config
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.pdb
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csc.exe
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csc.exe.config
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csc.rsp
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csi.exe
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csi.exe.config
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\csi.rsp
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.AppContext.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Collections.Immutable.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Console.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.Compression.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.FileSystem.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Net.Http.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Net.Sockets.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.ValueTuple.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.XPath.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\vbc.exe
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\vbc.exe.config
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\vbc.rsp
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\VBCSCompiler.exe
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\roslyn\VBCSCompiler.exe.config
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\MessageUtil.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\Newtonsoft.Json.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Net.Http.Formatting.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.WebHost.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\MessageUtil.pdb
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\Newtonsoft.Json.pdb
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\Newtonsoft.Json.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Net.Http.Formatting.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Http.WebHost.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.csprojAssemblyReference.cache
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CoreCompileInputs.cache
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CopyComplete
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\obj\Debug\MessageMicroservice.pdb
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\Microsoft.Web.Infrastructure.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\Swashbuckle.Core.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Helpers.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Mvc.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Razor.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.WebPages.Deployment.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.WebPages.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.WebPages.Razor.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\WebActivatorEx.dll
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Helpers.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Mvc.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.Razor.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.WebPages.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.WebPages.Deployment.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\System.Web.WebPages.Razor.xml
+D:\Nikola\IT49g2015_G4_M6\MessageMicroservice\bin\MessageMicroservice.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\MessageMicroservice.dll.config
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\MessageMicroservice.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\MessageMicroservice.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\MessageMicroservice.pdb
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\csc.exe
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\csc.exe.config
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\csc.rsp
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\csi.exe
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\csi.exe.config
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\csi.rsp
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.AppContext.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Console.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Net.Http.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\vbc.exe
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\vbc.exe.config
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\vbc.rsp
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\MessageUtil.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\Newtonsoft.Json.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\Swashbuckle.Core.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Net.Http.Formatting.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Helpers.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Http.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Http.WebHost.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Mvc.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Razor.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.WebPages.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\WebActivatorEx.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\MessageUtil.pdb
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\Newtonsoft.Json.pdb
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\Newtonsoft.Json.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Net.Http.Formatting.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Helpers.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Http.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Http.WebHost.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Mvc.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.Razor.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.WebPages.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\obj\Debug\MessageMicroservice.csprojAssemblyReference.cache
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\obj\Debug\MessageMicroservice.csproj.CopyComplete
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\obj\Debug\MessageMicroservice.dll
+C:\Users\Jelena\Documents\IT49g2015_G4_M6 (1)\master\MessageMicroservice\obj\Debug\MessageMicroservice.pdb
